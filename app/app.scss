@@ -1,0 +1,25 @@
+$bgcolor: #fafafa;
+$textcolor: darkblue;
+$fontsize: 22px;
+$pagHomeBG: blue;
+$pageSobreBG: orange;
+$pageContatoBG: red;
+
+body {
+  background-color: $bgcolor;
+  color: $textcolor;
+  font-size: $fontsize;
+}
+.p-home{
+	display: block;
+	background-color: $pagHomeBG;
+}
+.p-sobre{
+	display: block;
+	background-color: $pageSobreBG;
+}
+.p-contato{
+	display: block;
+	background-color: $pageContatoBG;
+}
+

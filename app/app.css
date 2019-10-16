@@ -1,0 +1,22 @@
+body {
+  background-color: #fafafa;
+  color: darkblue;
+  font-size: 22px;
+}
+
+.p-home {
+  display: block;
+  background-color: blue;
+}
+
+.p-sobre {
+  display: block;
+  background-color: orange;
+}
+
+.p-contato {
+  display: block;
+  background-color: red;
+}
+
+/*# sourceMappingURL=app.css.map */
